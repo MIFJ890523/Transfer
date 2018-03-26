@@ -1,0 +1,72 @@
+si
+campos vacios
+error en campos vacios
+
+si 
+solo se da pass
+pass != null
+
+si
+solo se da llave
+key != null
+
+si
+se da llave y pas
+key != null AND pass != null
+
+
+*la clase es la misma, solo cambian parametros por null y funciona
+*la validacion de la nulidad se da desde la interfas
+
+
+*no importan los parametros igual llama a lo mismo, solo importa la asignacion de variables
+
+	==pass
+userData[3]==key
+
+
+
+
+*/*/*/llave+pass*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/Debian 3
+alex@127.0.0.1
+3024
+mifj890523
+/home/jmiranda/.ssh/con_pass/id_rsa
+ls
+//alex
+//andres
+//Musica
+
+
+*/*/*/pass*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/Debian 2
+alex@127.0.0.1
+3023
+mifj890523
+ls
+//carpeta1
+
+get -r carpeta
+get archivo
+
+put -r carpeta
+put archivo
+
+
+*/*/*/llave*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/Debian
+alex@127.0.0.1
+3022
+/home/jmiranda/.ssh/sin_pass/id_rsa
+ls
+//andres
+//Musica
+
+
+*/*/*/tunel+pass*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/Debian 4
+//ssh -L 9000:localhost:80 alex@10.3.2.184
+alex@10.3.2.184
+9000:localhost:80
+mifj890523
+
+
+
+
